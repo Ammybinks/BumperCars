@@ -1,0 +1,32 @@
+C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Images\bumper_car1.xnb
+C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Images\bumper_car2.xnb
+C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Images\oil_slick.xnb
+C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Images\spinning_coin.xnb
+C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Sound\background_music.xnb
+C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Sound\bumpercar_bounce.xnb
+C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Sound\bumpercar_coin.xnb
+C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Sound\bumpercar_oilslick.xnb
+C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\GameFont.xnb
+C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Bumper Cars of AWESOMEDOOMNESS.exe
+C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Bumper Cars of AWESOMEDOOMNESS.pdb
+C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\obj\x86\Debug\Bumper Cars of AWESOMEDOOMNESS.csprojResolveAssemblyReference.cache
+C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\obj\x86\Debug\Bumper Cars of AWESOMEDOOMNESS.exe
+C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\obj\x86\Debug\Bumper Cars of AWESOMEDOOMNESS.pdb
+C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Sound\Theme.xnb
+D:\Users\nye\Documents\GitHub\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Images\bumper_car1.xnb
+D:\Users\nye\Documents\GitHub\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Images\bumper_car2.xnb
+D:\Users\nye\Documents\GitHub\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Images\oil_slick.xnb
+D:\Users\nye\Documents\GitHub\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Images\spinning_coin.xnb
+D:\Users\nye\Documents\GitHub\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Sound\background_music.xnb
+D:\Users\nye\Documents\GitHub\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Sound\bumpercar_bounce.xnb
+D:\Users\nye\Documents\GitHub\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Sound\bumpercar_coin.xnb
+D:\Users\nye\Documents\GitHub\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Sound\bumpercar_oilslick.xnb
+D:\Users\nye\Documents\GitHub\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Sound\Theme.xnb
+D:\Users\nye\Documents\GitHub\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\GameFont.xnb
+D:\Users\nye\Documents\GitHub\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Bumper Cars of AWESOMEDOOMNESS.exe
+D:\Users\nye\Documents\GitHub\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Bumper Cars of AWESOMEDOOMNESS.pdb
+D:\Users\nye\Documents\GitHub\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\obj\x86\Debug\Bumper Cars of AWESOMEDOOMNESS.csprojResolveAssemblyReference.cache
+D:\Users\nye\Documents\GitHub\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\nye\Documents\GitHub\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\obj\x86\Debug\Bumper Cars of AWESOMEDOOMNESS.exe
+D:\Users\nye\Documents\GitHub\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\obj\x86\Debug\Bumper Cars of AWESOMEDOOMNESS.pdb

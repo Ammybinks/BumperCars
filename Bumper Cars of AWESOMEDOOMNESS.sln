@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bumper Cars of AWESOMEDOOMNESS", "Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS.csproj", "{0332737F-60D6-4EA6-81DE-C57F565EB025}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Bumper Cars of AWESOMEDOOMNESSContent", "Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESSContent\Bumper Cars of AWESOMEDOOMNESSContent.contentproj", "{7ABFB4E0-0FBE-497D-8ED1-422714D8E4EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0332737F-60D6-4EA6-81DE-C57F565EB025}.Debug|x86.ActiveCfg = Debug|x86
+		{0332737F-60D6-4EA6-81DE-C57F565EB025}.Debug|x86.Build.0 = Debug|x86
+		{0332737F-60D6-4EA6-81DE-C57F565EB025}.Release|x86.ActiveCfg = Release|x86
+		{0332737F-60D6-4EA6-81DE-C57F565EB025}.Release|x86.Build.0 = Release|x86
+		{7ABFB4E0-0FBE-497D-8ED1-422714D8E4EB}.Debug|x86.ActiveCfg = Debug|x86
+		{7ABFB4E0-0FBE-497D-8ED1-422714D8E4EB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\bumper_car1.png</Source>
+      <Name>Images\bumper_car1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Images\bumper_car1.xnb</Output>
+      <Time>2014-03-14T16:36:24.2152219+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bumper_car2.png</Source>
+      <Name>Images\bumper_car2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Images\bumper_car2.xnb</Output>
+      <Time>2014-03-14T16:36:24.234223+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\oil_slick.png</Source>
+      <Name>Images\oil_slick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Images\oil_slick.xnb</Output>
+      <Time>2014-03-14T16:36:24.2372231+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\spinning_coin.png</Source>
+      <Name>Images\spinning_coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Images\spinning_coin.xnb</Output>
+      <Time>2014-03-14T16:36:24.2392232+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\background_music.wav</Source>
+      <Name>Sound\background_music</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Sound\background_music.xnb</Output>
+      <Time>2014-03-14T16:36:29.7965411+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\bumpercar_bounce.wav</Source>
+      <Name>Sound\bumpercar_bounce</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Sound\bumpercar_bounce.xnb</Output>
+      <Time>2014-03-14T16:36:29.8105419+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\bumpercar_coin.wav</Source>
+      <Name>Sound\bumpercar_coin</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Sound\bumpercar_coin.xnb</Output>
+      <Time>2014-03-14T16:36:29.8315431+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\bumpercar_oilslick.wav</Source>
+      <Name>Sound\bumpercar_oilslick</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Sound\bumpercar_oilslick.xnb</Output>
+      <Time>2014-03-14T16:36:29.8345433+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameFont.spritefont</Source>
+      <Name>GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\GameFont.xnb</Output>
+      <Time>2014-03-19T02:31:05.9569965+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Theme.wav</Source>
+      <Name>Sound\Theme</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\Sound\Theme.xnb</Output>
+      <Time>2014-04-29T15:27:55.3368972+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESSContent\</RootDirectory>
+      <LoggerRootDirectory>C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESSContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\TeenCoder\Game Programming\Activity Starters\BumperCars\Bumper Cars of AWESOMEDOOMNESS\Bumper Cars of AWESOMEDOOMNESS\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-27T22:51:55.1078598+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
